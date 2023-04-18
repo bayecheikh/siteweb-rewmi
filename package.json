@@ -1,7 +1,7 @@
 {
-    "name": "edublink",
+    "name": "REWMI",
     "version": "1.0.0",
-    "author": "DevsBlink",
+    "author": "Cheikh",
     "private": true,
     "scripts": {
         "dev": "nuxt",
